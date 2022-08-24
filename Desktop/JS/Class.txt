@@ -1,0 +1,22 @@
+//Class
+You can add your own methods in a class
+
+As you can see in the example above, you call the method by referring to the object's method name followed by parentheses (parameters would go inside the parentheses).
+
+//Class Inheritance
+To create a class inheritance, use the 'extends' keyword
+A class created with a class inheritance inherits all the methods from another class
+
+
+ES6 introduced classes.
+
+A class is a type of function, but instead of using the keyword function to initiate it, we use the keyword class, and the properties are assigned inside a constructor() method.
+
+Example
+A simple class constructor:
+
+class Car {
+  constructor(name) {
+    this.brand = name;
+  }
+}

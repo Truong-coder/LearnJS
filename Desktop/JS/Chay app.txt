@@ -1,0 +1,25 @@
+*) Check
+node -v
+npm -v
+
+*)
+Cai tool cho npm: npm install -g expo-cli yarn
+- Goi code de run luon do nang may
+
+*) Git
+- git clone "HTTPS/SSH link"
+
+code .
+cd "filename/" 
+ls
+code .
+yarn install
+yarn web
+
+*) Tao React Native app
+- npm install -g expo-cli yarn
+- cd C:\Users\gamer\Desktop\ReactNativeApps
+- ls
+- expo init React-Native-Tutorial/ npx create-expo-app my-app
+- ls
+- code .

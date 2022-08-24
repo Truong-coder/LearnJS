@@ -1,0 +1,14 @@
+1. Toán tử số học - Arithmetic
+2. Toán tử gán - Assignment
+3. Toán tử so sánh - Comparison
+4. Toán tử logic - Logical 
+
+*/ Toán tử số học
++ --> Cộng
+- --> Trừ
+* --> Nhân
+** --> Lũy thừa
+/ --> Chia
+% --> Lấy dư
+++ --> Tăng 1 giá trị số
+-- --> Giảm 1 giá trị số
